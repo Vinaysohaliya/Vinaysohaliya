@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋, I'm Vinay Sohaliya<br><br>🚀 Software Engineer passionate about building scalable backend systems, modern web applications, and cloud-native solutions.<br><br>💻 Currently working as an SDE at DevX<br>🚀 About Me<br>🔭 Working on scalable backend architectures & event-driven systems<br>🌱 Building on advanced AWS, System Design, and AI implementations<br>💡 Working in Backend Engineering, Distributed Systems & Cloud Infrastructure<br>⚡ Love building full-stack applications with modern technologies<br><br>
+Hi there 👋, I'm Vinay Sohaliya<br><br>🚀 Software Engineer passionate about building scalable backend systems, modern web applications, and cloud-native solutions.<br><br>💻 Currently working as an SDE at DevX<br>🔭 Working on scalable backend architectures & event-driven systems<br>🌱 Building on advanced AWS, System Design, and AI implementations<br>💡 Working in Backend Engineering, Distributed Systems & Cloud Infrastructure<br>⚡ Love building full-stack applications with modern technologies<br><br>
 
 
 ## 🌐 Socials:
